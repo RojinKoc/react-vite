@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-   <div>merhaba</div>
+   <div>Merhaba</div>
   )
 }
 
